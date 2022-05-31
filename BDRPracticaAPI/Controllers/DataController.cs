@@ -282,7 +282,6 @@ namespace BDRPracticaAPI.Controllers
 
         }
 
-        [HttpPost]
         public JsonResult DeleteCliente(Int64 IdCliente)
         {
             var result = Json("");

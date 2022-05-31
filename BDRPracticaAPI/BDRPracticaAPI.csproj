@@ -206,6 +206,7 @@
     <None Include="DataBaseHelper.dbml.layout">
       <DependentUpon>DataBaseHelper.dbml</DependentUpon>
     </None>
+    <None Include="Properties\PublishProfiles\BDRPracticaAPI20220530191625 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
